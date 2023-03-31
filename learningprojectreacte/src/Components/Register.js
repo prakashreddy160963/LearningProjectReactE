@@ -22,7 +22,7 @@ export default function Register() {
                         <input className="w-96 h-9 rounded-lg border-2 border-sky-100 focus:outline-sky-300" />
                         <input className="w-96 h-9 rounded-lg border-2 border-sky-100 focus:outline-sky-300" />
                         <input className="w-96 h-9 rounded-lg border-2 border-sky-100 focus:outline-sky-300" />
-                        <button>Click</button>
+                        <button className="bg-sky-500 rounded-lg w-12">Click</button>
                     </div>
                 </div>
 

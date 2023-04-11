@@ -1,13 +1,13 @@
-import Hook1 from './Components/Hook1';
-import Registration from './Components/Register'
 
-function App() {
+import Butn from './Components/Buttons';
+
+
+
+export default function App() {
+
   return (
     <div>
-      {/* <Registration /> */}
-      <Hook1></Hook1>
+      <Butn />
     </div>
-  );
+  )
 }
-
-export default App;
